@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Before merge this file was not available in Master branch.
 
 After merging with the bugfix branch this file can be found.
+=======
+Trying to update the file in bugfix branch which is in master as well
+>>>>>>> bugfix
